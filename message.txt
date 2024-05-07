@@ -1,0 +1,6 @@
+Subject: Hello from the bot
+
+Hi there {NAME}!
+Just reaching out.
+Let me know what you have been up to lately!
+Regards, Owen

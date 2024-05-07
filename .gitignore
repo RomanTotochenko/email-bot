@@ -1,0 +1,7 @@
+
+*.pyc
+credentials.py
+mycontacts.txt
+.env
+gmailAPI/token.json
+gmailAPI/credentials.json
